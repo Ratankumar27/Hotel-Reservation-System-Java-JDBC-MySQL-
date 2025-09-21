@@ -10,7 +10,10 @@
   <p>
         This is a console-based <strong>Hotel Reservation Management System</strong> built using 
         <strong>Java</strong>, <strong>JDBC</strong>, and <strong>MySQL</strong>. It allows hotel staff to 
-        manage room reservations efficiently with a simple text-based interface.
+        manage room reservations efficiently with a simple text-based interface.<br>
+      <br>
+        <strong>The main Java file HotelReservationSystem.java is located in the src/ directory of the project.</strong>
+      
 </p>
 
 <!DOCTYPE html>
